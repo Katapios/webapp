@@ -1,15 +1,14 @@
 package main;
 
 /**
- * gkislin
- * 12.12.2014.
- */
+ * Package: main
+ * Creator: lordrumin
+ * Has Created: 16.02.2018
+ **/
 public interface Car {
     int getSpeed();
-
     void setSpeed(int speed);
-
-    void getDescription();
+    void getDesctiption();
 
     double getEngineVolume();
 }

@@ -1,14 +1,15 @@
 package main;
 
 /**
- * gkislin
- * 12.12.2014.
- */
-public class SimpleCar extends AbstractCar{
+ * Package: main
+ * Creator: lordrumin
+ * Has Created: 17.02.2018
+ **/
+public class SimpleCar extends AbstractCar {
 
     @Override
-    public void getDescription() {
-        super.getDescription();
+    public void getDesctiption() {
+        super.getDesctiption();
         System.out.println("Something custom");
     }
 

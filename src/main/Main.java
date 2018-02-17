@@ -12,12 +12,12 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.format("Hello %s!\n", args[0]);
-        Car raceCar = new RaceCar();
+        Car raseCar = new RaseCar();
         Car simpleCar = new SimpleCar();
-        System.out.println(raceCar.getSpeed());
-        raceCar.getDescription();
-        simpleCar.getDescription();
 
+        System.out.println("Взяли сеттером:" + raseCar.getSpeed());
+        raseCar.getDesctiption();
+        simpleCar.getDesctiption();
     }
 }
 
