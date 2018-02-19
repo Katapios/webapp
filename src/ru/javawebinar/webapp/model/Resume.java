@@ -8,7 +8,7 @@ import java.util.Collection;
  * Has Created: 16.02.2018
  **/
 public class Resume {
-    String fullName;
+    private String fullName;
     String[] some;
     Collection<String> collection;
 }

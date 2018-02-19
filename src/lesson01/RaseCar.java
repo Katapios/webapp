@@ -1,7 +1,7 @@
-package main;
+package lesson01;
 
 /**
- * Package: main
+ * Package: lesson01
  * Creator: lordrumin
  * Has Created: 17.02.2018
  **/
